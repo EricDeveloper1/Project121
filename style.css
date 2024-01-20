@@ -1,0 +1,41 @@
+body {
+    background: lemonchiffon;
+    font-family: Maiandra GD;
+}
+
+.text {
+    font-size: 23px;
+}
+
+.copy_right_footer {
+    font-size: 15px;
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background: darkgrey;
+    line-height: 3;
+    text-align: center;
+    font-family: Roboto;
+  }
+
+  ol {
+    font-size: 23px;
+  }
+
+  h5 {
+    font-size: 16px;
+  }
+
+  .texts {
+    font-weight: bolder;
+    font-family: Goudy Stout;
+  }
+
+  h2 {
+    font-family: Forte;
+  }
+  
+  hr {
+    border-top: 1px solid cadetblue;
+  }
